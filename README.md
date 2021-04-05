@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+## How do you start
+
+You can start downloading or cloning the Zip file of the proyect
+
+## Get everything ready
+
+For this proyect, you'll need to install this dependencies on your proyect: 
+- react-toastify": "^7.0.3
+
+You'll need for the CSS, but you can use your own styles, if you want. 
+
+## Can you win? 
+
+Try the game here: https://nifty-bose-180478.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
