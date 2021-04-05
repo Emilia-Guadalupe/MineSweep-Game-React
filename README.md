@@ -5,9 +5,9 @@ You can start downloading or cloning the Zip file of the proyect
 ## Get everything ready
 
 For this proyect, you'll need to install this dependencies on your proyect: 
-- react-toastify": "^7.0.3
+- react-toastify: ^7.0.3
 
-You'll need for the CSS, but you can use your own styles, if you want. 
+You'll need it for the CSS, but you can use your own styles, if you want. 
 
 ## Can you win? 
 
